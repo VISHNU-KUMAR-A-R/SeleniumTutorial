@@ -1,2 +1,1 @@
 # SeleniumTutorial
-SeleniumTutorial
